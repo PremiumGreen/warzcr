@@ -61,6 +61,6 @@ while True:
     if chon == '2':
         os.system('cls')
         print("                                              \033[1;39mZalo All")
-        exec(requests.get('https://raw.githubusercontent.com/PremiumGreen/warzcr/refs/heads/main/Spam%40all.pyl').text)
+        exec(requests.get('https://raw.githubusercontent.com/PremiumGreen/warzcr/refs/heads/main/Spam%40all.py').text)
     else:
         continue    
