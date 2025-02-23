@@ -57,10 +57,10 @@ while True:
     chon = input(f'[x>>] ')               
     os.system('cls')
     print("                                              \033[1;39mZalo")
-    exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Minecraft').text)
+    exec(requests.get('https://raw.githubusercontent.com/PremiumGreen/warzcr/refs/heads/main/Spam.py').text)
     if chon == '2':
         os.system('cls')
         print("                                              \033[1;39mZalo All")
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/SSTool').text)
+        exec(requests.get('https://raw.githubusercontent.com/PremiumGreen/warzcr/refs/heads/main/Spam%40all.pyl').text)
     else:
         continue    
